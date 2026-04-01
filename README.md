@@ -3,7 +3,7 @@
 
 ---
 
-## 🇪🇬 (باللغة العربية) - نظرة عامة على المشروع
+## 🇪🇬  - نظرة عامة على المشروع
 
 هذا المشروع هو حل تقني متكامل لتحليل سوق العقارات في مصر (التجمع الخامس والشيخ زايد). يقوم البرنامج بسحب البيانات آلياً من مواقع العقارات، تنظيفها، وعرضها في لوحة تحكم تفاعلية تساعد المستثمرين والمشترين على اتخاذ قرارات مبنية على أرقام حقيقية.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🇬🇧 (English) - Project Overview
+## 🇬🇧  - Project Overview
 
 This is a professional data solution for the Egyptian real estate market. It automatically scrapes data from top listings, cleans it, and provides an interactive dashboard for buyers to compare prices between **New Cairo** and **Sheikh Zayed**.
 
